@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9SE8cGMUMP4AQud+ud6O1/q7vLzFFNQPnEab6OIu9Dpim1B4Ci/xWfazfpuT9/BtP5U7k7SPFlierG8pSVQqBQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

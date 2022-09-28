@@ -1,0 +1,15 @@
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\bin\Debug\net6.0\AutoDrivingCarSimulation.exe
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\bin\Debug\net6.0\AutoDrivingCarSimulation.deps.json
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\bin\Debug\net6.0\AutoDrivingCarSimulation.runtimeconfig.json
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\bin\Debug\net6.0\AutoDrivingCarSimulation.dll
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\bin\Debug\net6.0\AutoDrivingCarSimulation.pdb
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.csproj.AssemblyReference.cache
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.AssemblyInfoInputs.cache
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.AssemblyInfo.cs
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.csproj.CoreCompileInputs.cache
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.dll
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\refint\AutoDrivingCarSimulation.dll
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.pdb
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\AutoDrivingCarSimulation.genruntimeconfig.cache
+F:\Projects\AutoDrivingCarSimulation\AutoDrivingCarSimulation\obj\Debug\net6.0\ref\AutoDrivingCarSimulation.dll
